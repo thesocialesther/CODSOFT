@@ -1,2 +1,2 @@
-# CODSOFT
-Data Science Internship
+# `CODSOFT`
+*Data Science Internship.*
